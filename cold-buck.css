@@ -1,0 +1,53 @@
+#headerWrapper{
+  background-color: #304269;
+  height: 210px;
+}
+body{
+  background-color:#304269
+}
+#pageWrapper{
+  background-color:white;
+}
+#logo{
+  height:70px	
+}
+.north-stag-dark-container{
+  padding: 12px;
+  background-color: #304269;
+  color: #d9eBf5;
+}
+.north-stag-dark-heading{
+  color: #d9eBf5;
+}
+
+.north-stag-get-started-big-button{
+  width: 40%;
+  margin: 12px !important;
+  float: left;
+  cursor: pointer;
+}
+
+.north-stag-get-started-big-button:hover{
+  //background-color: #F26101;
+  background-color:black;
+  
+}
+
+.north-stag-get-started-big-button-title{
+  text-align: center;
+  font-size: 22pt
+}
+page a{
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+.north-stag-getting-started-icon-options{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 100pt;
+    display: block;
+}
+
+
